@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Damilola Kusimo Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
+    header { background: #003366; color: white; padding: 2rem; text-align: center; }
+    nav { background: #002244; padding: 1rem; text-align: center; }
+    nav a { color: white; margin: 0 1rem; text-decoration: none; font-weight: bold; }
+    section { padding: 2rem; max-width: 1000px; margin: auto; }
+    h2 { color: #003366; }
+    footer { background: #003366; color: white; text-align: center; padding: 1rem; margin-top: 2rem; }
+    ul { line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Damilola Kusimo</h1>
+    <p>Marketing & Communications Strategist</p>
+    <p>Driving growth across Africa through data-led marketing and storytelling</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#highlights">Highlights</a>
+    <a href="#case-studies">Case Studies</a>
+    <a href="#tools">Tools</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m an experienced marketing and communications professional with cross-industry expertise in growth marketing, go-to-market execution, campaign strategy, and brand positioning. I have a proven track record of delivering measurable results for both B2B and B2C organizations across Africa.</p>
+  </section>
+
+  <section id="highlights">
+    <h2>Career Highlights</h2>
+    <ul>
+      <li>118% increase in website visits – Polaris Bank</li>
+      <li>40% lead growth – Alpha Mead Training Centre</li>
+      <li>Executed GTM for Mastercard’s Young Africa Works (12% of 5-year goal)</li>
+      <li>80% social media growth in 6 months – AMTC</li>
+      <li>Managed digital crisis communication – Polaris Bank</li>
+    </ul>
+  </section>
+
+  <section id="case-studies">
+    <h2>Selected Case Studies</h2>
+    <h3>Omni-Channel Growth – Polaris Bank</h3>
+    <p>Designed and executed a digital strategy across paid/organic channels, resulting in 23.8% social growth, 13.4% app installs, and 118% website traffic increase. Tools: SEMrush, GA4, Mailchimp, Canva.</p>
+
+    <h3>Go-To-Market Strategy – Mastercard/Jobberman</h3>
+    <p>Led GTM efforts for Mastercard’s Young Africa Works Initiative; helped achieve 12% of a 5-year target in under 2 years. Managed PR, influencers, and full campaign cycle.</p>
+
+    <h3>AMI Nigeria Campaigns</h3>
+    <p>Managed ICP research, segmentation, lead nurturing, multi-channel marketing and events. Tools: Mailchimp, GA4, Mentionlytics, Canva.</p>
+  </section>
+
+  <section id="tools">
+    <h2>Tools & Certifications</h2>
+    <ul>
+      <li>Certifications: CIM Diploma, HubSpot Inbound, Leadership (ALDC), OECMS</li>
+      <li>Tools: SEMrush, GA4, WordPress, Mailchimp, Zoho, Canva, Mentionlytics</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:kusimodamilola@yahoo.com">kusimodamilola@yahoo.com</a></p>
+    <p>Phone: +234 705 957 8217</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/damilola-kusimo" target="_blank">linkedin.com/in/damilola-kusimo</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Damilola Kusimo. All rights reserved.</p>
+  </footer>
+</body>
+</html>
